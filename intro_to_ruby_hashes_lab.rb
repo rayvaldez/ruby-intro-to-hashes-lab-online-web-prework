@@ -3,7 +3,7 @@ def new_hash
 
 end
 new_hash
-end
+
 
 def actor
 
